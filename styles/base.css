@@ -9,7 +9,7 @@ footer,
 h2 {
     text-align: center;
     background-color: tomato;
-    color: white;
+    color: rgb(9, 36, 85);
     font-size: 1rem;
     line-height: 3.5rem;
 }
@@ -58,9 +58,7 @@ header ul li a {
     text-decoration: none;
 }
 
-#my-photo {
-    width: 15%;
-}
+
 
 #about-me {
     display: flex;
@@ -117,5 +115,5 @@ footer p {
 
 #lastModified {
     font-size: .75rem;
-    color: brown;
+    color: white;
 }
