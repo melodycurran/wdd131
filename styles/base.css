@@ -24,6 +24,7 @@ main {
     gap: 1rem;
     justify-self: center;
     padding: 1rem;
+    max-width: 95%;
 }
 
 h2 {
@@ -120,6 +121,6 @@ footer p {
     font-size: .75rem;
 }
 
-li:hover {
-    background-color: #178adc;
+li a:hover {
+    text-decoration: underline;
 }
