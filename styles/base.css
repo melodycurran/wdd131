@@ -8,8 +8,8 @@ header,
 footer,
 h2 {
     text-align: center;
-    background-color: tomato;
-    color: white;
+    background-color: #ffc49b;
+    color: #001b2e;
     font-size: 1rem;
     line-height: 3.5rem;
 }
@@ -46,6 +46,7 @@ section.card p,
 header ul {
     display: flex;
     flex-direction: row;
+    padding-left: 0;
 }
 
 header ul li {
@@ -117,5 +118,8 @@ footer p {
 
 #lastModified {
     font-size: .75rem;
-    color: white;
+}
+
+li:hover {
+    background-color: #178adc;
 }
